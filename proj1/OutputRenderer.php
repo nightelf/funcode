@@ -2,7 +2,7 @@
 /**
  * Renders a template file.
  */
-class Renderer {
+class OutputRenderer {
 
 	/**
 	 * Gets the restaurant data.

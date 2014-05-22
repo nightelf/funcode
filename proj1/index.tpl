@@ -28,7 +28,7 @@
 	<!-- scripts -->
 	<script src="//code.jquery.com/jquery-1.11.0.min.js"></script>
 	<script src="//code.jquery.com/ui/1.10.4/jquery-ui.min.js"></script>
-	<script src="/gofundme/index.js"></script>
+	<script src="<?php echo $baseUrl; ?>index.js"></script>
 	<script type="text/javascript">
 		restaurant.listData('');
 		$('#search').keyup(function(e) {
