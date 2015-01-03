@@ -1,3 +1,7 @@
+# I like poo.
+# You do too.
+# Donkey
+
 <?php
 require_once 'startup.php';
 
