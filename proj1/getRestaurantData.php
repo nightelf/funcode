@@ -1,6 +1,6 @@
 # I like poo.
 # You do too.
-# Donkey's have dangerous dung:)
+# Donkeys have dung eeeeeeeeee
 
 <?php
 require_once 'startup.php';
